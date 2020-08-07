@@ -26,6 +26,14 @@ Otherwise, all required files are stored in the github repository.
 
 Before training the model, Unzip datasets in to `imgs/` folder.
 
+### Requirements
+
+- python==3.7
+- tensorflow==2.0
+- keras==2.3.1
+- matplotlib==3.3.0
+- opencv-python==4.3.0
+
 The directory structure is as follows:
 ```
 genderdetect/
