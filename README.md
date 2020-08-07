@@ -29,10 +29,10 @@ Before training the model, Unzip datasets in to `imgs/` folder.
 The directory structure is as follows:
 ```
 genderdetect/
-	|-> main.py/					* changing hyperparameters and set folder path
-	|-> load_attr.py			* Load image info
-	|-> traininig.py			* network strucutres, train/test functions
-	|-> generate.py				* data preprocessing and loading
-	|-> plot.py						* results visualization
+	|-> main.py/          * changing hyperparameters and set folder path
+	|-> load_attr.py      * Load image info
+	|-> traininig.py      * network strucutres, train/test functions
+	|-> generate.py       * data preprocessing and loading
+	|-> plot.py           * results visualization
 ```
 
