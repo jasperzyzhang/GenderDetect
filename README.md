@@ -40,7 +40,7 @@ genderdetect/
 
 	|-> main.py/				* changing hyperparameters and set folder path
 	|-> load_attr.py			* Load image info
-	|-> traininig.py			* network strucutres, train/test functions
+	|-> training.py			* network structures, train/test functions
 	|-> generate.py				* data preprocessing and loading
 	|-> plot.py				* results visualization
 
