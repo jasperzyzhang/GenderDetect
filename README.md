@@ -46,5 +46,5 @@ genderdetect/
 
 ```
 
-We also provide a notebookfile 7. DLPROJECT2-TestCutout_5squares_size30.ipynb containing the entire data preprocessing, traninig, validation, testing steps for convenience.
+We also provide a notebookfile 7. DLPROJECT2-TestCutout_5squares_size30.ipynb containing the entire data preprocessing, training, validation, testing steps for convenience.
 
