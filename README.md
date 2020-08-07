@@ -29,11 +29,13 @@ Before training the model, Unzip datasets in to `imgs/` folder.
 The directory structure is as follows:
 ```
 genderdetect/
-	|-> main.py/          * changing hyperparameters and set folder path
-	|-> load_attr.py      * Load image info
-	|-> traininig.py      * network strucutres, train/test functions
-	|-> generate.py       * data preprocessing and loading
-	|-> plot.py           * results visualization
+
+	|-> main.py/				* changing hyperparameters and set folder path
+	|-> load_attr.py			* Load image info
+	|-> traininig.py			* network strucutres, train/test functions
+	|-> generate.py				* data preprocessing and loading
+	|-> plot.py				* results visualization
+
 ```
 
 We also provide a notebookfile 7. DLPROJECT2-TestCutout_5squares_size30.ipynb containing the entire data preprocessing, traninig, validation, testing steps for convenience.
