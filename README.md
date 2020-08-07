@@ -3,7 +3,7 @@
 
 August 7th: visualization function for Loss and Accuracy added.
 
-### Autho
+### Author
 
 * Soo Woon (Shawn) Chung
 * Jingwen (Rebecca) Du
@@ -13,6 +13,8 @@ August 7th: visualization function for Loss and Accuracy added.
 ### Introduction
 
 Here is a collection of code and datasets corresponding to our project "Gender Detection from Facial Images with and without Mask".
+
+
 
 Due to size limit, The Google Shared Folder https://drive.google.com/drive/folders/14a38EqwCzzJNp3faOuxFNfnFgyEW-hPO?usp=sharing includes the following files:
 
